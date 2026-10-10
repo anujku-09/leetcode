@@ -215,6 +215,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0190-reverse-bits](https://github.com/anujku-09/competitive_programming/tree/main/0190-reverse-bits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +262,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/anujku-09/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0190-reverse-bits](https://github.com/anujku-09/competitive_programming/tree/main/0190-reverse-bits/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
