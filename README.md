@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anujku-09/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/anujku-09/competitive_programming/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/anujku-09/competitive_programming/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/anujku-09/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujku-09/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/anujku-09/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -170,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/anujku-09/competitive_programming/tree/main/0012-integer-to-roman/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/anujku-09/competitive_programming/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/anujku-09/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/anujku-09/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anujku-09/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -202,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/anujku-09/competitive_programming/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/anujku-09/competitive_programming/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anujku-09/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## String
