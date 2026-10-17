@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anujku-09/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0054-spiral-matrix](https://github.com/anujku-09/competitive_programming/tree/main/0054-spiral-matrix/) | Medium |
 | [0078-subsets](https://github.com/anujku-09/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujku-09/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/anujku-09/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -200,6 +201,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/anujku-09/competitive_programming/tree/main/0054-spiral-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anujku-09/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## String
@@ -223,6 +225,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/anujku-09/competitive_programming/tree/main/0054-spiral-matrix/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/anujku-09/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
