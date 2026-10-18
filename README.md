@@ -29,6 +29,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anujku-09/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anujku-09/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/anujku-09/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0260-single-number-iii](https://github.com/anujku-09/competitive_programming/tree/main/0260-single-number-iii/) | Medium |
 | [0321-create-maximum-number](https://github.com/anujku-09/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/anujku-09/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anujku-09/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -286,6 +287,7 @@
 | [0078-subsets](https://github.com/anujku-09/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/anujku-09/competitive_programming/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/anujku-09/competitive_programming/tree/main/0191-number-of-1-bits/) | Easy |
+| [0260-single-number-iii](https://github.com/anujku-09/competitive_programming/tree/main/0260-single-number-iii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
