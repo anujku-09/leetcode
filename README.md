@@ -135,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/anujku-09/competitive_programming/tree/main/0012-integer-to-roman/) | Medium |
+| [0062-unique-paths](https://github.com/anujku-09/competitive_programming/tree/main/0062-unique-paths/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/anujku-09/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/anujku-09/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -151,6 +152,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/anujku-09/competitive_programming/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/anujku-09/competitive_programming/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0062-unique-paths](https://github.com/anujku-09/competitive_programming/tree/main/0062-unique-paths/) | Medium |
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/anujku-09/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/anujku-09/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -329,4 +331,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anujku-09/competitive_programming/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/anujku-09/competitive_programming/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
