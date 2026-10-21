@@ -137,6 +137,7 @@
 | [0012-integer-to-roman](https://github.com/anujku-09/competitive_programming/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/anujku-09/competitive_programming/tree/main/0062-unique-paths/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/anujku-09/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/anujku-09/competitive_programming/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/anujku-09/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1154-day-of-the-year](https://github.com/anujku-09/competitive_programming/tree/main/1154-day-of-the-year/) | Easy |
@@ -219,6 +220,7 @@
 | [0022-generate-parentheses](https://github.com/anujku-09/competitive_programming/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/anujku-09/competitive_programming/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0168-excel-sheet-column-title](https://github.com/anujku-09/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/anujku-09/competitive_programming/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/anujku-09/competitive_programming/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0402-remove-k-digits](https://github.com/anujku-09/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/anujku-09/competitive_programming/tree/main/0678-valid-parenthesis-string/) | Medium |
