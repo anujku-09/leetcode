@@ -84,6 +84,7 @@
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anujku-09/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/anujku-09/competitive_programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0321-create-maximum-number](https://github.com/anujku-09/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 | [0402-remove-k-digits](https://github.com/anujku-09/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -105,6 +106,7 @@
 | [0112-path-sum](https://github.com/anujku-09/competitive_programming/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anujku-09/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/anujku-09/competitive_programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anujku-09/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -114,6 +116,7 @@
 | [0112-path-sum](https://github.com/anujku-09/competitive_programming/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anujku-09/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/anujku-09/competitive_programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/anujku-09/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -123,6 +126,7 @@
 | [0112-path-sum](https://github.com/anujku-09/competitive_programming/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anujku-09/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/anujku-09/competitive_programming/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anujku-09/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
