@@ -103,6 +103,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/anujku-09/competitive_programming/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/anujku-09/competitive_programming/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anujku-09/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -113,6 +114,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/anujku-09/competitive_programming/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/anujku-09/competitive_programming/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anujku-09/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -123,6 +125,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/anujku-09/competitive_programming/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/anujku-09/competitive_programming/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/anujku-09/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -279,6 +282,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/anujku-09/competitive_programming/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/anujku-09/competitive_programming/tree/main/0112-path-sum/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/anujku-09/competitive_programming/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anujku-09/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
