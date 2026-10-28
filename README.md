@@ -4,6 +4,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anujku-09/competitive_programming/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/anujku-09/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujku-09/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anujku-09/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -18,6 +19,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anujku-09/competitive_programming/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/anujku-09/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0054-spiral-matrix](https://github.com/anujku-09/competitive_programming/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anujku-09/competitive_programming/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -249,6 +251,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anujku-09/competitive_programming/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0190-reverse-bits](https://github.com/anujku-09/competitive_programming/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/anujku-09/competitive_programming/tree/main/0191-number-of-1-bits/) | Easy |
