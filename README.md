@@ -64,6 +64,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anujku-09/competitive_programming/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/anujku-09/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -139,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anujku-09/competitive_programming/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anujku-09/competitive_programming/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/anujku-09/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0321-create-maximum-number](https://github.com/anujku-09/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
 ## Math
