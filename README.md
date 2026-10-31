@@ -230,6 +230,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anujku-09/competitive_programming/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/anujku-09/competitive_programming/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/anujku-09/competitive_programming/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/anujku-09/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/anujku-09/competitive_programming/tree/main/0022-generate-parentheses/) | Medium |
