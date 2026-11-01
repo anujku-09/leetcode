@@ -27,6 +27,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujku-09/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/anujku-09/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anujku-09/competitive_programming/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anujku-09/competitive_programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/anujku-09/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anujku-09/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/anujku-09/competitive_programming/tree/main/0100-same-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anujku-09/competitive_programming/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anujku-09/competitive_programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/anujku-09/competitive_programming/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -131,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/anujku-09/competitive_programming/tree/main/0100-same-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anujku-09/competitive_programming/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anujku-09/competitive_programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/anujku-09/competitive_programming/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -194,6 +197,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/anujku-09/competitive_programming/tree/main/0012-integer-to-roman/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/anujku-09/competitive_programming/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anujku-09/competitive_programming/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/anujku-09/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/anujku-09/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anujku-09/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -262,6 +266,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anujku-09/competitive_programming/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anujku-09/competitive_programming/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anujku-09/competitive_programming/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0190-reverse-bits](https://github.com/anujku-09/competitive_programming/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/anujku-09/competitive_programming/tree/main/0191-number-of-1-bits/) | Easy |
