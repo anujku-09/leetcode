@@ -118,6 +118,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anujku-09/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0834-sum-of-distances-in-tree](https://github.com/anujku-09/competitive_programming/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/anujku-09/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0834-sum-of-distances-in-tree](https://github.com/anujku-09/competitive_programming/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@
 | [0119-pascals-triangle-ii](https://github.com/anujku-09/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/anujku-09/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/anujku-09/competitive_programming/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0834-sum-of-distances-in-tree](https://github.com/anujku-09/competitive_programming/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/anujku-09/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -297,6 +300,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0834-sum-of-distances-in-tree](https://github.com/anujku-09/competitive_programming/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,4 +376,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anujku-09/competitive_programming/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/anujku-09/competitive_programming/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 <!---LeetCode Topics End-->
