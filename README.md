@@ -66,6 +66,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anujku-09/competitive_programming/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anujku-09/competitive_programming/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/anujku-09/LeetCode/tree/main/0061-rotate-list/) | Medium |
@@ -79,6 +80,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anujku-09/competitive_programming/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/anujku-09/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anujku-09/competitive_programming/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/anujku-09/competitive_programming/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/anujku-09/competitive_programming/tree/main/0062-unique-paths/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/anujku-09/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
